@@ -1,0 +1,15 @@
+__pycache__
+.idea/
+.lprof/
+.vscode/
+pytcpl.egg-info/
+
+dist/*
+dist/.gitkeep
+
+streamlit/*
+streamlit/.gitkeep
+
+data/raw/*
+
+
